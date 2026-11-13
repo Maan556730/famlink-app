@@ -20,6 +20,8 @@ jobs:
         with:
           distribution: temurin
           java-version: 17
+      - name: Install fixed signing key
+        run: mkdir -p ~/.android && base64 -d keystore.b64 > ~/.android/debug.keystore
       - run: npm install
       - run: npx cap sync android
       - run: chmod +x android/gradlew
