@@ -1,0 +1,9 @@
+{
+  "appId": "in.nutriblitz.famlink",
+  "appName": "FamLink",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "plugins": {
+    "Geolocation": {}
+  }
+}
