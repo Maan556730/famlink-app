@@ -2,7 +2,11 @@
   "appId": "in.nutriblitz.famlink",
   "appName": "FamLink",
   "webDir": "www",
-  "server": { "androidScheme": "https" },
+  "server": {
+    "url": "https://lucky-morning-2d37.odd-hall-c69d.workers.dev/d.html?code=famnb-9x4k2q",
+    "androidScheme": "https",
+    "cleartext": false
+  },
   "plugins": {
     "Geolocation": {}
   }
