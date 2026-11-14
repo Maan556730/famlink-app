@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">FamLink</string>
-    <string name="title_activity_main">FamLink</string>
+    <string name="app_name">More Money</string>
+    <string name="title_activity_main">More Money</string>
     <string name="package_name">in.nutriblitz.famlink</string>
     <string name="custom_url_scheme">in.nutriblitz.famlink</string>
 </resources>
